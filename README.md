@@ -24,7 +24,7 @@ Docker registry access: Anonymous = dtr.*   Write access = registry.*
 
 ## Orchestration Engine
 1. Docker Swarm
-2. [swarm-communication.md](Communicating with the Swarm)
+2. [Communicating with the Swarm](swarm-communication.md)
 
 ## Design, Coding, and Deployment Standards
 
